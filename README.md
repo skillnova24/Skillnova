@@ -1,1 +1,2 @@
-_config.yml.theme: jekyll-theme-slate
+_config.yml.
+theme: jekyll-theme-slate
